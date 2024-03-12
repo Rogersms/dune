@@ -1,1 +1,6 @@
-# dune
+ https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x06367eeE1520fAEa8F5E4C2e1db051b91aDA3e14'
+quorum: 1
